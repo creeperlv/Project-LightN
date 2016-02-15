@@ -1,25 +1,19 @@
 0.4.3.78(LN2_Impressive 78)
  
 -Addded Chinese translation.(Not complete)
-
 -增加了中文翻译。（不完整）
-
 -Added Search page.(Only can search English because of )
 
 0.4.2.77(LN2_Market 77)
  
 -Moved parts of each novel in 'Favoutites' from root folder into each own folder that should improved loading speed in Main page.
- 
 -Improved stability.
-
 -Fixed some bugs.
 
 0.4.1.76(LN2_RDMain 76)
  
 -Enabled 'Download All Parts' button in detail page.
- 
 -Improved stability.
-
 -Fixed some bugs.
 
 0.4.0.75(LN2_Impressive 75)
@@ -29,7 +23,6 @@ The Fantastic Update:
 For Beta:
 
 -Added reading in chapter.
-
 -Added detail page for both favourite and market
 
 0.3.10.60(LN2_RDMain 60)
@@ -39,67 +32,52 @@ For Beta:
 0.3.9.58(LN2_Impressive 58)
  
 -Add detail page in market and prepared for the future ' Fantastic Update '
- 
 -Add Font toggle.
  
 0.3.7.57(LN1_Impressive 57)
  
 -Add Novel and Progress exportation
- 
 -Add Font toggle.
- 
 -Improved UX/UI.
 
 0.3.6.56(LN1_RDMain 56)
  
 -Improved memory management
- 
 -Improved UX/UI.
 
 0.3.5.55(LN1_RDMain 55)
  
 -Added reading font choice.
- 
 -Improved UX/UI.
- 
 -Improved stabilization.
- 
 -Improved memory manage.
  
 0.3.4.54(LN1_UsrIterfce 54)
  
 -Improved UX/UI.
- 
 -Improved main page load speed.
  
 0.3.3.53(LN1_UsrIterfce 53)
  
 -Improved UX/UI.
- 
 -Added Analytics plug-in.
- 
 -Added Update plug-in.
-
 -Prepare for more UI/UX improvement in title bar and phone status bar.
 
 0.3.2.52(LN1_RDMain 52)
  
 -Imporved memory manage.
-
 -Support load local reading progress record file.
-
 -Txts in GBK encoding can be imported now.
 
 0.3.1.51(LN1_Market 51)
  
 -Changed UA.
-
 -Fixed some bugs in display.
 
 0.3.0.50(LN1_Market 50)
  
 -Books in market can be downloaded now.
-
 -Added ad plug-in.
 
 -Details in online novel is more than before.
@@ -115,25 +93,19 @@ For Beta:
 0.2.1.40(LN1_Impressive 40)
 
 -Reading font size now is changeable.
-
 -Settings are abled to be saved now.
-
 -Added Welcome page for new versions that contains new settings .
-
 -UI Improved.
 
 0.2.0.39(LN1_RDMain 39)
 
 -Enabled a new reader engine named 'ReaderII' which is faster.
-
 -Fixed the bug taht the app will crash when tring to change the theme
-
 -Known issue: you will lost your reading progress while you open the novel with the new Engine
 
 0.1.9.27(LN1_Market 27)
 
 -Added page turing and refresh control.
-
 -Opening file with GB2312, BIG5 and so on is supported.
 
 0.1.8.23(LN1_Impressive 23)
@@ -143,13 +115,11 @@ For Beta:
 0.1.7.22
 
 -Made the market near the success.
-
 -Added GB2312, BIG5 support, but not enabled in all file reader.
 
 0.1.6.17
 
 -Added 'Market'.
-
 -Changed progress file.
 -Improved UI.
 
@@ -160,17 +130,14 @@ For Beta:
 0.1.4.6
 
 -Added Dark read mode.
-
 -Improved UI.
 
 0.1.3.5
 
 -Improved stabilization.
-
 -Improved UI.
 
 0.1.2.4
 
 -Modified App name in display.
-
 -Improved UI.
