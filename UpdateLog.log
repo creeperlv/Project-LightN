@@ -1,3 +1,10 @@
+0.6.0.91 Beta(LN3_Market 91 Beta)
+-Added Url Protocol Active support, you can quick open a link then, Project LightN will launch and navigate to the novel that link points to.
+e.g.: Url: pln://id/254, then App will open the detail page of 《约会大作战》
+
+0.5.6.90(LN2_Market 89)
+-Changed file structure(Pay attention: It improved the launch speed but you will LOSE your reading progress in Favourites!)
+
 0.5.5.89(LN2_UsrIterfce 89)
 -Fixed bugs.
 -Improved Live Tile on Windows 10 Mobile
