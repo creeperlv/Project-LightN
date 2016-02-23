@@ -1,3 +1,13 @@
+0.6.3.94 Beta(LN3_RDmain 94 Beta)
+-Imprvoed UI.
+-Fixed bugs on Tile.
+
+0.6.2.93 Beta(LN3_RDmain 93 Beta)
+-Fixed some bugs.
+
+0.6.1.92 Beta(LN3_Fun 92 Beta)
+-Added a Easter Egg.
+
 0.6.0.91 Beta(LN3_Market 91 Beta)
 -Added Url Protocol Active support, you can quick open a link then, Project LightN will launch and navigate to the novel that link points to.
 e.g.: Url: pln://id/254, then App will open the detail page of 《约会大作战》
