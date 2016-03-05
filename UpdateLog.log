@@ -1,3 +1,18 @@
+0.7.9.106(LN3_RDMain 106 Beta)
+-Add 'Full Screen' boggle button in Reader Ⅱ
+
+0.7.8.105(LN3_UI 105 Beta)
+-Fixed the bug that releasing the novel list item after holding it will automatically exit the select mode.
+
+0.7.7.105(LN3_UI 104 Beta)
+-Imoprvoed UI.
+
+0.7.6.103(LN3_Market 103 Beta)
+-Fixed the bug that may happen in detail page while you are switching online/offline
+
+0.7.5.102(LN3_UI 102 Beta)
+-Imoprvoed UI.
+
 0.7.3.100(LN3_UI 100 Beta)
 -Holding and right click the list view will into the select mode.
 
