@@ -1,0 +1,17 @@
+Project LightN (Hereinafter referred to as this App.) is an text-reading application that can be used on Windows 10, Windows 10 Mobile, this application can open both txt and txty file, at the same time you can read partly in 'Favourites'.
+The home page of this App. has 4 parts:
+
+First, part 'Novels'
+This part is constituted by a list and 4 buttons, ths list is used to show txts in local folder in App Data, the 4 buttons are used to:
+1. Import a novel.
+2. Enter Select Mode.
+3. Refresh Part 'Novel'.
+4. Delete the selected novel(s).
+Click the novel name in the list can open the novel, and enter 'Reader Ⅱ' out of 'Home Page', right click(Holding and releaseing any location in the list) will enter the Select Mode.
+
+Second, part 'Favourite'
+This part is constituted by a list and 4 buttons, ths list is used to show parted novels in local folder in App Data, the 4 buttons are used to:
+1. Enter Select Mode.
+2. Refresh Part 'Favourite'.
+3. Delete the selected Favourite(s).
+Click the novel name in the list can open the novel, and enter 'Detail Page' out of 'Home Page', right click(Holding and releaseing any location in the list) will enter the Select Mode.
